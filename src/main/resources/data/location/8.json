@@ -1,0 +1,56 @@
+[
+  {
+    "no" : 1, "name" : ["倫敦", "London"]
+  },
+  {
+    "no" : 2, "name" : ["普利茅斯", "Plymouth"]
+  },
+  {
+    "no" : 3, "name" : ["愛丁堡", "Edinburgh"]
+  },
+  {
+    "no" : 4, "name" : ["阿姆斯特丹", "Amsterdam"]
+  },
+  {
+    "no" : 5, "name" : ["格羅寧根", "Groningen"]
+  },
+  {
+    "no" : 6, "name" : ["加萊", "Calais"]
+  },
+  {
+    "no" : 7, "name" : ["斯德哥爾摩", "Stockholm"]
+  },
+  {
+    "no" : 8, "name" : ["漢堡", "Hamburg"]
+  },
+  {
+    "no" : 9, "name" : ["都柏林", "Dublin"]
+  },
+  {
+    "no" : 10, "name" : ["安特衛普", "Antwerp"]
+  },
+  {
+    "no" : 11, "name" : ["布萊梅", "Bremen"]
+  },
+  {
+    "no" : 12, "name" : ["奧斯陸", "Oslo"]
+  },
+  {
+    "no" : 13, "name" : ["卑爾根", "Bergen"]
+  },
+  {
+    "no" : 14, "name" : ["呂北克", "Lubeck"]
+  },
+  {
+    "no" : 15, "name" : ["哥本哈根", "Copenhagen"]
+  },
+  {
+    "no" : 16, "name" : ["維斯比", "Visby"]
+  },
+  {
+    "no" : 17, "name" : ["但澤", "Danzig"]
+  },
+  {
+    "no" : 18, "name" : ["里加", "Riga"]
+  }
+]

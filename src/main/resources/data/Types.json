@@ -1,0 +1,26 @@
+[
+  {
+    "no" : 1, "name" : ["食品","Food"]
+  },
+  {
+    "no" : 2, "name" : ["藥品", "Medicine"]
+  },
+  {
+    "no" : 3, "name" : ["紡織品", "Texttile"]
+  },
+  {
+    "no" : 4, "name" : ["工藝品", "Artware"]
+  },
+  {
+    "no" : 5, "name" : ["工業產品", "Industrial Goods"]
+  },
+  {
+    "no" : 6, "name" : ["寶石", "Gemstone"]
+  },
+  {
+    "no" : 7, "name" : ["嗜好品", "Hobby Goods"]
+  },
+  {
+    "no" : 8, "name" : ["香料", "Spice"]
+  }
+]

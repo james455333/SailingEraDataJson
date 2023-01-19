@@ -1,0 +1,90 @@
+[
+  {
+    "no" : 1,
+    "name" :
+            ["歐洲西部", "West Europe"]
+  },
+  {
+    "no" : 2,
+    "name" :
+            ["非洲西部", "West Africa"]
+
+  },
+  {
+    "no" : 3,
+    "name" :
+            ["印度洋區域", "Indian Ocean Region"]
+  },
+  {
+    "no" : 4,
+    "name" :
+            ["南美洲", "South America"]
+  },
+  {
+    "no" : 5,
+    "name" :
+            ["太平洋", "Pacific Ocean"]
+  },
+  {
+    "no" : 6,
+    "name" :
+            ["東南亞", "Southeast Asia"]
+  },
+  {
+    "no" : 7,
+    "name" :
+            ["歐洲東部", "East Europe"]
+
+  },
+  {
+    "no" : 8,
+    "name" :
+            ["歐洲北部", "North Europe"]
+
+  },
+  {
+    "no" : 9,
+    "name" :
+            ["極北地區", "Arctic"]
+  },
+  {
+    "no" : 10,
+    "name" :
+            ["歐亞大陸北部", "North Eurasia"]
+  },
+  {
+    "no" : 11,
+    "name" :
+            ["東亞", "East Asia"]
+  },
+  {
+    "no" : 12,
+    "name" :
+            ["大洋洲", "Oceania"]
+  },
+  {
+    "no" : 13,
+    "name" :
+            ["歐亞大陸東", "Eastmost Eurasia"]
+  },
+  {
+    "no" : 14,
+    "name" :
+            ["加勒比", "Caribbean"]
+  },
+  {
+    "no" : 15,
+    "name" :
+            ["北美西岸", "North America West Coast"]
+  },
+  {
+    "no" : 16,
+    "name" :
+            ["阿拉斯加", "Alaska"]
+  },
+  {
+    "no" : 17,
+    "name" :
+            ["北美東岸", "North America East Coast"]
+  }
+]

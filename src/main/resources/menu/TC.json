@@ -1,0 +1,51 @@
+{
+  "forward" : "<",
+  "backward" : ">",
+  "confirm" : "確定",
+  "menu" : [
+    {
+      "seq" : 1,
+      "desp" : "查詢資料",
+      "mode" : "QUERY",
+      "query" : {
+        "conditions" : [
+          {
+            "desp" : "貨物名稱",
+            "input" : "TEXT",
+            "mode" : "SINGLE",
+            "option" : "product"
+          },
+          {
+            "desp" : "標籤",
+            "input" : "SELECT",
+            "mode" : "MULTIPLE",
+            "option" : "tag"
+          },
+          {
+            "desp" : "地區",
+            "input" : "SELECT",
+            "mode" : "SINGLE",
+            "option" : "loaction"
+          },
+          {
+            "desp" : "港口",
+            "input" : "SELECT",
+            "mode" : "SINGLE",
+            "option" : "port"
+          }
+        ]
+      }
+    },
+    {
+      "seq" : 2,
+      "desp" : "編輯資料",
+      "mode" : "EDIT"
+    },
+    {
+      "seq" : 3,
+      "desp" : "使用者設定",
+      "mode" : "SETTING"
+    }
+
+  ]
+}

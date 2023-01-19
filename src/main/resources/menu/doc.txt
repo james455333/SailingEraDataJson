@@ -1,0 +1,10 @@
+seq Integer 排序
+name String 選單名稱
+major Obejct(Array) 子選單
+
+step Object{StepBean} 下一步,直到沒有
+desp String 步驟說明
+showOrigin Boolean 呈現原本資料的名稱(全部 all, 名稱 name, 標籤 tag, 地區 location, 港口 port)
+showDatas Boolean 呈現資料集
+dataName String 資料集名稱
+multipleQuery Boolean 多條件查詢，用{condition}分隔

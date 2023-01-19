@@ -1,0 +1,12 @@
+[
+  {
+    "no" : 1,
+    "name" : ["繁體中文"],
+    "fileName" : "TC"
+  },
+  {
+    "no": 2,
+    "name" : ["English"],
+    "fileName" : "EN"
+  }
+]

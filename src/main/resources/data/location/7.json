@@ -1,0 +1,80 @@
+[
+  {
+    "no" : 1, "name" : ["帕爾馬", "Palma"]
+  },
+  {
+    "no" : 2, "name" : ["巴塞隆納", "Barcelona"]
+  },
+  {
+    "no" : 3, "name" : ["馬賽", "Marseilles"]
+  },
+  {
+    "no" : 4, "name" : ["熱那亞", "Genoa"]
+  },
+  {
+    "no" : 5, "name" : ["卡利亞里", "Cagliari"]
+  },
+  {
+    "no" : 6, "name" : ["比薩", "Pisa"]
+  },
+  {
+    "no" : 7, "name" : ["拿坡里", "Naples"]
+  },
+  {
+    "no" : 8, "name" : ["阿爾及爾", "Algiers"]
+  },
+  {
+    "no" : 9, "name" : ["突尼斯", "Tunisia"]
+  },
+  {
+    "no" : 10, "name" : ["的黎波里", "Tripoli"]
+  },
+  {
+    "no" : 11, "name" : ["威尼斯", "Venice"]
+  },
+  {
+    "no" : 12, "name" : ["拉古薩", "Ragusa"]
+  },
+  {
+    "no" : 13, "name" : ["的里雅斯德", "Trieste"]
+  },
+  {
+    "no" : 14, "name" : ["伊斯坦堡", "Istanbul"]
+  },
+  {
+    "no" : 15, "name" : ["亞歷山大", "Alexandria"]
+  },
+  {
+    "no" : 16, "name" : ["敘拉古", "Syracuse"]
+  },
+  {
+    "no" : 17, "name" : ["雅典", "Athens"]
+  },
+  {
+    "no" : 18, "name" : ["薩洛尼卡", "Thessalonica"]
+  },
+  {
+    "no" : 19, "name" : ["法馬古斯塔", "Famagusta"]
+  },
+  {
+    "no" : 20, "name" : ["貝魯特", "Beirut"]
+  },
+  {
+    "no" : 21, "name" : ["開羅", "Cairo"]
+  },
+  {
+    "no" : 22, "name" : ["班加西", "Benghazi"]
+  },
+  {
+    "no" : 23, "name" : ["雅法", "Jaffa"]
+  },
+  {
+    "no" : 24, "name" : ["西西里", "Sicily"]
+  },
+  {
+    "no" : 25, "name" : ["克里特", "Crete"]
+  },
+  {
+    "no" : 26, "name" : ["塞凡堡", "Sevastopol"]
+  }
+]

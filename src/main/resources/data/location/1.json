@@ -1,0 +1,13 @@
+[
+  {"no" : 1, "name" : ["南特", "Nantes"]},
+  {"no" : 2, "name" : ["波爾多", "Bordeaux"]},
+  {"no" : 3, "name" : ["波多", "Porto"]},
+  {"no" : 4, "name" : ["馬拉加", "Malaga"]},
+  {"no" : 5, "name" : ["瓦倫西亞", "Valencia"]},
+  {"no" : 6, "name" : ["塞維亞", "Seville"]},
+  {"no" : 7, "name" : ["拉斯帕爾馬斯", "Las Palms"]},
+  {"no" : 8, "name" : ["里斯本", "Lisbon"]},
+  {"no" : 9, "name" : ["馬德拉", "Madeira"]},
+  {"no" : 10, "name" : ["卡薩布蘭卡", "Casablanca"]},
+  {"no" : 11, "name" : ["休達", "Ceuta"]}
+]
